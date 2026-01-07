@@ -10,4 +10,7 @@ Email me at eofuntanar@gmail.com
 
 
 Should i do freelance? Check me out here @ https://eof-dev.vercel.app/
+
+Give my projects a visit = )
+ - Koino (Budget Tracker) - https://eof-koino.vercel.app/dashboard
  
