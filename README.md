@@ -5,9 +5,7 @@
 Email me at eofuntanar@gmail.com 
 
 - 🔭 I’m currently working on Wisecloud inc under the client charma.io, a swedish company (https://charma.io/).
-- 🎁 https://swippy.app/
-- 🌱 I’m currently learning Typescript frameworks and Infrastructure.
-
+- 🎁 https://swippy.app/ 
 
 Should i do freelance? Check me out here @ https://eof-dev.vercel.app/
 
