@@ -24,24 +24,24 @@ I'm a **Senior Software Engineer** focused on building scalable, high-quality we
 
 ### 🧩 Projects
 
-#### 🎁 Swippy
-**Swippy** (https://swippy.app/) is a modern gifting platform that makes sending gifts simple, flexible, and meaningful.
+#### 🎁 Swippy (by Charma)
+**Swippy** (https://swippy.app/) is a gifting platform developed by **Charma**, designed to make sending gifts simple, flexible, and meaningful.
 
-As one of the **core developers**, I played a key role in building and shaping the product — contributing to both the **technical foundation** and **user experience**.
+I am one of the **core developers** of this project, contributing significantly to both its **technical development** and **user experience**.
 
 **✨ Features**
 - Send **digital gifts and curated experiences**
 - Recipients can **choose what they actually want**
-- Seamless gifting flow for both individuals and businesses
+- Seamless gifting experience for individuals and businesses
 
 **🛠 Contributions**
-- Developed core parts of the **frontend architecture** using React-based technologies
+- Built key parts of the **frontend architecture** using modern React-based technologies
 - Helped design a **scalable and maintainable system**
-- Improved **UX flows** to ensure smooth and intuitive interactions
+- Improved **UX flows** for a smooth and intuitive experience
 - Collaborated closely with product and design teams
 
 **🚀 Impact**
-Swippy is redefining gifting by making it more **personal, flexible, and user-focused**.
+Swippy helps redefine gifting by making it more **personal, flexible, and user-focused**.
 
 ---
 
